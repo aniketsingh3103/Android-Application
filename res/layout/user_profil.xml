@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/userprofil"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:id="@+id/la1"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/blue"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add_user"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/la2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/la1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp" >
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/input"
+            android:ems="10"
+            android:hint="Enter your name"
+            android:inputType="text"
+            android:lines="1"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/tapwhite"
+            android:textSize="12sp" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/location"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/input"
+            android:inputType="text"
+            android:ems="10"
+            android:hint="Location"
+            android:lines="1"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/tapwhite"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@+id/pincode"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/input"
+            android:ems="10"
+            android:hint="Pincode"
+            android:inputType="number"
+            android:lines="1"
+            android:maxLength="6"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/tapwhite"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/create"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/button"
+            android:text="Create"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</RelativeLayout>

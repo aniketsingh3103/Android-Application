@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/gridback"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_gravity="center"
+        android:layout_margin="3dp"
+        android:background="@drawable/backcurv3"
+        android:gravity="bottom|center"
+        android:orientation="vertical" >
+
+       <!--   <ImageView
+            android:id="@+id/grid_img"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/call" />-->
+
+       <!--   <TextView
+            android:id="@+id/icon_text"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:text="T"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/btn_logut_bg"
+            android:textSize="40sp" />-->
+
+        <ImageView
+            android:id="@+id/grid_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="center"
+            android:src="@drawable/button_new" />
+
+        <TextView
+            android:id="@+id/grid_text"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:gravity="center"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

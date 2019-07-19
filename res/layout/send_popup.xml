@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/alert"
+    android:layout_width="290dp"
+    android:layout_height="250dp"
+    android:background="@color/gray"
+    android:gravity="top|center_horizontal"
+    android:orientation="vertical"
+    tools:context=".Dialog" >
+
+    <TextView
+        android:id="@+id/alert_sub"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:background="@color/icon3"
+        android:ems="10"
+        android:hint="Enter your phone no."
+        android:padding="10dp"
+        android:text="Send Alert"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="18sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/alert_message"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/alert_sub"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/backcurv2"
+        android:gravity="center"
+        android:textColor="@color/new_text"
+        android:textSize="15sp" >
+    </TextView>
+
+    <Button
+        android:id="@+id/send"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/alert_message"
+        android:layout_toRightOf="@+id/cancle"
+        android:background="@null"
+        android:text="Send"
+        android:textColor="@color/lightblue"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/cancle"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/alert_message"
+        android:background="@null"
+        android:text="Cancel"
+        android:textSize="16sp" />
+
+</RelativeLayout>

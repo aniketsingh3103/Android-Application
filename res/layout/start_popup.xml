@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/alert"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/gray"
+    android:gravity="top|center_horizontal"
+    android:orientation="vertical"
+    tools:context=".Dialog" >
+
+    <TextView
+        android:id="@+id/alert_sub"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:background="@color/icon3"
+        android:ems="10"
+        android:hint="Enter your phone no."
+        android:padding="10dp"
+        android:text="Important"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="16sp" >
+       
+    </TextView>
+
+    <TextView
+        android:id="@+id/alert_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/alert_sub"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/backcurv2"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:paddingTop="10dp"
+        android:text="@string/start"
+        android:textColor="@color/new_text"
+        android:textSize="17sp" >
+
+    </TextView>
+         
+    <Button
+        android:id="@+id/accept"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/alert_message"
+        android:layout_toRightOf="@+id/cancle"
+        android:background="@null"
+        android:text="Accept"
+        android:textColor="@color/but_ok"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/decline"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/alert_message"
+        android:background="@null"
+        android:text="Decline"
+        android:textSize="16sp" />
+
+    
+
+</RelativeLayout>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DMN</string>
+    <string name="hint_email">Enter your phone Number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Username</string>
+    <string name="btn_login">JOIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="about">Our Website</string>
+    <string name="setting">Setting</string>
+    <string name="alert">View Alerts</string>
+    <string name="add_cord">If your area is not in the location list please tell us.We will 
+       Add your location too.Just fill the details correctly and send to us.Soon You will see your location in
+       the list.  </string>
+       <string name="family">Using Our app you can track your two family memebers if they are also using this app.
+           Just fill the following details and you are ready to go.</string>
+       <string name="add_user">Now you can search your nearby friends Just fill your basic infomation and become 
+           a part of Local Friend Network And ask for your need.</string>
+
+<string-array name="list">
+        <item >Notification</item>
+        <item >Dos and Dont</item>
+        <item >Contact us</item>
+        <item >Get your location</item>
+        <item >Terms of service</item>
+</string-array>
+
+<string name="start">You are not having INTERNET Connection. Our App require INTERNET connection to 
+    						make our all services run.\n\nIf You choose to continue without INTERNET you will 
+    						only get limited service of our app. So its highly recommed to have INTERNET connection
+    						soon.\n\nHaving INTERNET is all user wish and it may cost you normal data charges.Directorate of 
+    						Disaster Management DO NOT TAKE ANY RESPONSIBILITY FOR DATA CHARGES.</string>
+    						
+<string name="about_text">This is an Android application being designed and developed by Dr.B.R Ambedkar Institute 
+    of Tecnlology.The app was propsed by Directorate of Disaster Management Andman Nicobar Island.
+    .This app will help to at the time of disaster and also before it.This app provides basic user help as following.
+    \n1.Dos and Donts\n
+    2.Videos about Disater\n
+    3.Self Location Tracking\n
+    4.SoS\n
+    5.Feedback From User\n
+    6.Search nearby friends\n
+    7.Servivial Kit\n
+    8.Update Alerts and Notification from Disaster Management office\n
+    9.You Can track your any two family members\n
+    Some of the features in this app are new to this island and required high INTERNET,So their functions
+    may vary from point to point. More Advance versions of this services will be provided in upcomming updates.
+    </string>
+    
+    <string name="help">
+        1.\tFriend option help you to locate nearby people within 100m area.\n\n
+        2.\tDo and Donts Contains all the instruction given by Disaster management office.\n\n
+        3.\tVideo option provide you with disaster videos provided by diaster management.\n\n
+        4.\tSend your feedback to Disaster Management office.\n\n
+        5.\tIt contains all important contacts which may be helpfull during disaser.\n\n
+        6.\tIt contains all the notification send by Disaster management office.\n\n
+        7.\tLocate yourself in portblair using the app.\n\n
+        8.\tIt contains list of all tools and important materials required at the time of disaster.\n\n
+        9.\tLocate your two Family members using this app      \n\n
+        10.\tNavigation Drawer helps user to quickly go to any layout.\n\n
+        11.\tQuick menu helps you to view sent alerts and the department website.\n\n
+        12.\tNotification menu provides all latest notifications given by disaster management office.\n\n
+        13.\tSOS(Save Our Soul) it have emergancy templates which any victim can send during disaster.\n\n
+        14.\tUser can send alerts to disaster management office.
+                </string>
+</resources>

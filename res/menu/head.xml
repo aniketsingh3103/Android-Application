@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/notification" 
+android:orderInCategory="1" android:showAsAction="always"
+android:title="@string/name"
+android:icon="@drawable/not"/>
+    
+    
+<item android:id="@+id/setting" 
+android:orderInCategory="1" android:showAsAction="ifRoom"
+android:title="@string/btn_logout"
+android:icon="@drawable/popup_but" />
+
+
+    </menu>

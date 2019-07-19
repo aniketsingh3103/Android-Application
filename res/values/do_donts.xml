@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="earthquake">
+        <item>Keep a disaster kit ready with important 
+documents, torch, radio and medicines  in approachable distance at your house 
+If you feel small  shaking evacuate  building.</item>
+        <item>Duck, Cover, Hold and slowly move to  safer place. </item>
+        <item>If you are outdoors, find a clear spot away from buildings, trees, streetlights, and power lines.</item>
+        <item>Drop to the ground .</item>
+        <item>If driving – pull over to clear location and  be in the vehicle</item>
+        <item>If you are in a coastal area, move to  higher ground.</item>
+        <item>Tsunamis are often created by  earthquakes.</item>
+    </string-array>
+    <string-array name="earthquaked">
+        <item>Don’t run – try to drop  to the ground.</item>
+    </string-array>
+    <string-array name="cyclone">
+        <item>Listen to the radio (All India Radio stations give weather warnings.</item>
+        <item>Keep monitoring the warnings. This will help you to prepare for a cyclone emergency.</item>
+        <item>Pass on the information to others.</item>
+        <item>Believe in the official information When  a cyclone alert is on for your area continue normal working
+ but stay alert to the radio warnings.</item>
+        <item>Remember that a cyclone alert means that  the danger is within 24 hours. Stay alert.</item>
+        <item>When your area is under cyclone warning get  away from low-lying beaches or other low-lying areas \n\t close to the coast
+Leave early before your way to  high ground or shelter gets flooded.</item>
+        <item>If your house is securely built on high  ground take shelter in the safer part of  the house
+However, if asked to evacuate  do not hesitate to leave the place.</item>
+        <item>Board up glass windows or put storm  shutters in place.</item>
+        <item>Provide strong suitable support for  outside doors.</item>
+        <item>If you do not have wooden boards handy,  paste paper strips on glasses to prevent  splinters.</item>
+        <item>However, this may not avoid breaking windows.</item>
+        <item>Get extra food, which can be eaten without  cooking. Store extra drinking water in  suitably covered vessels.</item>
+        <item>If you are to evacuate the house move your  valuable articles to upper floors to  minimize flood damage.</item>
+        <item>Have hurricane lantern, torches or other  emergency lights in working conditions and keep  them handy.</item>
+        <item>Small and loose things, which can fly in  strong winds, should be stored safely in a room.</item>
+        <item>Be sure that a window and door can be  opened only on the side opposite to the one facing  the wind.</item>
+        <item>Make provision for children and adults  requiring special diets.</item>
+        <item>If the centre of the cyclone is passing directly over your house there will be a lull in the wind and rain lasting for half and hour or so.</item>
+        <item>During this time do not go out; because  immediately after that very strong winds will blow from the opposite direction.</item>
+        <item>Switch off electrical mains in your  house.Remain calm.</item>
+    </string-array>
+    <string-array name="cycloned">
+        <item>Don’t run </item>
+        <item>Ignore rumours and do not spread them;  this will help to avoid panic situations.</item>
+        <item>Do not delay and run the risk of being  marooned</item>
+    </string-array>
+    <string-array name="fire">
+        <item>Repair defecting wiring.</item>
+        <item>Get a fire extinguisher now.</item>
+        <item>Cover yourself with blanket when  exposed to flame.</item>
+        <item>On being trapped stuff side gap of  the door with cloth.</item>
+        <item>Keep a first aid kit ready.</item>
+        <item>Help wire victims.</item>
+        <item>To extinguish fire, use stand,  dust, loose earth or fire  extinguisher.</item>
+        <item>Call 101 for Fire Bridge.</item>
+        <item>In a smoke filled room, don’t  walk, crawl.</item>
+    </string-array>
+    <string-array name="fired">
+        <item>Do not delay and run the risk of being  marooned</item>
+        <item>Don’t throw water on electrical  appliance.</item>
+        <item>Don’t play with fire.</item>
+    </string-array>
+    <string-array name="tsunami">
+        <item>Keep a disaster kit ready with important  documents, torch, radio and medicines 
+        in  approachable distance at your house.</item>
+        <item>After earthquake occurred, if you are in  a coastal area, move 
+    to higher ground and  listen to a Radio, TV, Tsunami Warning  Sirens, or other 
+    reliable source  for tsunami alert/warning issue  or not.</item>
+        <item>If you hear an official tsunami warning or detect signs of a tsunami, 
+    evacuate at  once coastal areas and tsunami vulnerable  areas and vessels to move into Deep  Ocean.</item>
+        <item>Take your Disaster Supplies Kit before  evacuation.</item>
+        <item>A tsunami is a series of waves that may  continue for hours. Do not assume that  
+    after one wave the danger is over.</item>
+        <item>The next wave may be larger than the  first one.</item>
+        <item>Return home only after local officials  tell you it is safe.</item>
+    </string-array>
+    <string-array name="tsunamid">
+        <item>Nothing to Display</item>
+    </string-array>
+    <string-array name="flood">
+        <item> Listen to radio or TV weather reports  for warning and advice and be alert.</item>
+        <item>Identify safe shelter in your area.  These should be cyclone resistant and  also find the closest route to reach them.</item>
+        <item>.All your family members should know  the safe routes to nearest  shelter/raised pucca house.</item>
+        <item>Keep your emergency kit and basic  food supply, medicines, torch and  batteries etc. ready in waterproof  bags. Drink preferably boiled water.  Keep your food covered. </item>
+        <item>Doors, windows, roof and walls  should be strengthened before the cyclone season through retrofitting and  repairing. Store adequate food grains  and water in safe places.</item>
+        <item>If your area in flood-prone,  consider suitable flood resistant  building materials.</item>
+        <item>Do not let children and pregnant  woman remain empty stomach.</item>
+        <item>Raise furniture, clothing and  valuable onto beds, tables and in  attic in flood prone area.</item>
+        <item>Turn off the main electricity power  supply. Do not use electrical  appliance, which have been in  flood water.</item>
+        <item>Remain indoors until advised  that the cyclone has passed away.</item>
+        <item>In case of cyclone alert, do  not go out, till officially advised that it is safe. If evacuated,  wait till advised to go  back. Use the recommended  route to return to your  home. Do not rush.</item>
+        <item>Be careful of broken powers  lines, damaged roads and house,  fallen trees etc.</item>
+        <item>Be careful of snakes, as snake  bites are common during floods.</item>
+    </string-array>
+    <string-array name="floodd">
+        <item>Do not get into water of unknown  depth and current.</item>
+        <item>Do not allow children to play  in, or near flood water.</item>
+        <item>Do not venture into the sea if  so advised. Stay Indoors under the  strongest part of the house, if  not moved to the cyclone shelter.</item>
+    </string-array>
+    <string-array name="document">
+        <item>ID card</item>
+        <item>ATM card</item>
+        <item>Pan Card</item>
+        <item>Ration Card</item>
+        <item>Driving License</item>
+        <item>Certificates</item>
+        <item>Fixed Deposit Certificates</item>
+        <item>Bank pass book</item>
+        <item>Land Record</item>
+    </string-array>
+    <string-array name="emergency">
+        <item>Torch with cell</item>
+        <item>Transistors/Radio</item>
+        <item>Mobile Chargers</item>
+        <item>Knife</item>
+        <item>Scissors  </item>
+    </string-array>
+    <string-array name="eatable">
+        <item>Dry Fruits</item>
+        <item>Baby Food</item>
+        <item>Biscuits </item>
+    </string-array>
+    <string-array name="cash">
+        <item>At least 10en dash20 thousand Rs. In hand</item>
+        <item>Jewellery</item>
+    </string-array>
+    <string-array name="cloth">
+        <item>Bed sheet</item>
+        <item>Towels</item>
+        <item>Cotton cloths</item>
+        <item>Rain Coat/Umbrella</item>
+    </string-array>
+
+</resources>
